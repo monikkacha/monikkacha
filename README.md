@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://developers.giphy.com/branch/master/static/why_3-811d1fc606617b7ee564a6be1d5ad6ae.gif" alt="animatin"/>
+ </p>
+
 <h1 align="center">Hi 👋, I'm Monik Kacah</h1>
 <h3 align="center">A passionate software developer about Blockchain</h3>
 
