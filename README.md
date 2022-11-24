@@ -3,7 +3,7 @@
  </p>
 
 <h1 align="center">Hi 👋, I'm Monik Kacha</h1>
-<h3 align="center">A passionate software developer about Blockchain</h3>
+<h3 align="center">A passionate software developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monikkacha&label=Profile%20views&color=0e75b6&style=flat" alt="monikkacha" /> </p>
 
