@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=monikkacha" alt="monikkacha" /></a> </p>
 
-- 👯 I’m looking to collaborate on **Blockchain**
+- 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 💬 Ask me about **Blockchain , Flutter and MERN**
+- 💬 Ask me about **React , Redux , Flutter and Android**
 
 - 📫 How to reach me **monikkacha@gmail.com**
 
