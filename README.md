@@ -11,8 +11,6 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 💬 Ask me about **React , Redux , Flutter and Android**
-
 - 📫 How to reach me **monikkacha@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
