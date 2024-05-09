@@ -4,3 +4,5 @@
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=monikkacha&show_icons=true&locale=en&layout=compact" alt="monikkacha" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=monikkacha&" alt="monikkacha" /></p>
