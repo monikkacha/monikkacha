@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Monik Kacha</h1>
-<h3 align="center">A passionate developer who loves to build and innovate</h3>
+<h3 align="center">A Passionate Developer Who Loves to Build and Innovate</h3>
 
 <p align="center">
   <a href="https://github.com/monikkacha">
@@ -10,36 +10,24 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=monikkacha&show_icons=true&theme=radical" alt="Monik Kacha's GitHub stats">
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=monikkacha&theme=radical" alt="Monik Kacha's GitHub streak stats">
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=monikkacha&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top languages used by Monik Kacha">
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=monikkacha&show_icons=true&theme=default" alt="Monik Kacha's GitHub stats" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=monikkacha&theme=default" alt="Monik Kacha's GitHub streak stats" width="400">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=monikkacha&show_icons=true&locale=en&layout=compact&theme=default" alt="Top languages used by Monik Kacha" width="400">
+</div>
 
 ---
 
 ### 🛠️ Technologies & Tools
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript">
-  <img src="https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js">
-  <img src="https://img.shields.io/badge/-React-333333?style=flat&logo=react">
-  <img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5">
-  <img src="https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3">
-  <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git">
-  <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github">
-  <img src="https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code">
-  <img src="https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux">
-</p>
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=monikkacha&theme=radical" alt="GitHub Profile Details">
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" alt="JavaScript">
+  <img src="https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js" alt="Node.js">
+  <img src="https://img.shields.io/badge/-React-333333?style=flat&logo=react" alt="React">
+  <img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5" alt="HTML5">
+  <img src="https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3" alt="CSS3">
+  <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" alt="Git">
+  <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" alt="GitHub">
+  <img src="https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code" alt="VS Code">
+  <img src="https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux" alt="Linux">
+</div>
