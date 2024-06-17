@@ -37,7 +37,7 @@
 <img src="https://img.shields.io/badge/-AWS-FFFFFF?style=flat&logo=amazon-aws&logoColor=232F3E" alt="AWS">
 <img src="https://img.shields.io/badge/-GraphQL-FFFFFF?style=flat&logo=graphql&logoColor=E10098" alt="GraphQL">
 <img src="https://img.shields.io/badge/-Prisma-FFFFFF?style=flat&logo=prisma&logoColor=2D3748" alt="Prisma">
-<img src="https://img.shields.io/badge/-Memcache-FFFFFF?style=flat&logo=memcached&logoColor=000000" alt="Memcache">
+<img src="https://img.shields.io/badge/-Redis-FFFFFF?style=flat&logo=redis&logoColor=DC382D" alt="Redis">
 <img src="https://img.shields.io/badge/-Git-FFFFFF?style=flat&logo=git&logoColor=F05032" alt="Git">
 <img src="https://img.shields.io/badge/-GitHub-FFFFFF?style=flat&logo=github&logoColor=181717" alt="GitHub">
 <img src="https://img.shields.io/badge/-VS%20Code-FFFFFF?style=flat&logo=visual-studio-code&logoColor=007ACC" alt="VS Code">
