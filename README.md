@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Monik Kacha</h1>
 <h3 align="center">A Passionate Developer Who Loves to Build and Innovate</h3>
 
-<p align="center">
+<p align="">
   <a href="https://github.com/monikkacha">
     <img src="https://img.shields.io/github/followers/monikkacha?label=Follow&style=social" alt="GitHub followers">
   </a>
@@ -10,17 +10,15 @@
   </a>
 </p>
 
-<div align="center">
+<div align="">
   <img src="https://github-readme-stats.vercel.app/api?username=monikkacha&show_icons=true&theme=default" alt="Monik Kacha's GitHub stats" width="400">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=monikkacha&theme=default" alt="Monik Kacha's GitHub streak stats" width="400">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=monikkacha&show_icons=true&locale=en&layout=compact&theme=default" alt="Top languages used by Monik Kacha" width="400">
 </div>
 
----
-
 ### 🛠️ Technologies & Tools
 
-<div align="center" style="background-color: #D0D3D4;">
+<div align="" style="background-color: #D0D3D4;">
 <img src="https://img.shields.io/badge/-JavaScript-FFFFFF?style=flat&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
 <img src="https://img.shields.io/badge/-TypeScript-FFFFFF?style=flat&logo=typescript&logoColor=3178C6" alt="TypeScript">
 <img src="https://img.shields.io/badge/-Node.js-FFFFFF?style=flat&logo=node.js&logoColor=339933" alt="Node.js">
@@ -46,3 +44,9 @@
 <img src="https://img.shields.io/badge/-Linux-FFFFFF?style=flat&logo=linux&logoColor=273746" alt="Linux">
 
 </div>
+
+### 📈 GitHub Stats
+
+<p align="">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=monikkacha" alt="GitHub Profile Details">
+</p>
