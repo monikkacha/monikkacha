@@ -44,7 +44,9 @@
 <img src="https://img.shields.io/badge/-Linux-FFFFFF?style=flat&logo=linux&logoColor=273746" alt="Linux">
 <img src="https://img.shields.io/badge/-Mocha-FFFFFF?style=flat&logo=mocha&logoColor=8D6748" alt="Mocha">
 <img src="https://img.shields.io/badge/-Chai-FFFFFF?style=flat&logo=chai&logoColor=A30701" alt="Chai">
+<img src="https://img.shields.io/badge/-Cypress-FFFFFF?style=flat&logo=cypress&logoColor=17202C" alt="Cypress">
 </div>
+
 
 
 ### 📈 GitHub Stats
